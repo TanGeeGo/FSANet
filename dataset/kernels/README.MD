@@ -1,0 +1,1 @@
+These are the real calibrated kernels on one Huawei Honor 20 Pro
