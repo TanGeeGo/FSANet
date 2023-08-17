@@ -111,7 +111,7 @@
       , "G_lossfn_weight": [1.0, 1e-4]           // default
   
       , "G_optimizer_type": "adam"         // fixed, adam is enough, adamw is for transformer
-      , "G_optimizer_lr": 1e-4             // learning rate
+      , "G_optimizer_lr": 1e-3             // learning rate
       , "G_optimizer_betas": [0.9, 0.999]  // beta 
       , "G_optimizer_wd": 1e-3             // weight decay
       , "G_optimizer_clipgrad": 0.01       // the max norm of grad for clipping (negative for unclipping)
